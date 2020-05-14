@@ -1,0 +1,24 @@
+.h1 {
+    font-size: xx-large;
+    font-family: "Jost", serif;
+    text-shadow:4px 4px 4px  wheat;
+    position: relative;
+    padding-top: 100px;
+}
+
+.blockquote-footer {
+    font-size: 25px;
+    font-family: unset;
+}
+
+.img1 {
+    height: 1000px;
+    background-image: url("cremebird.png");
+    background: url(cremebird.png) no-repeat center fixed;
+    background-position: 0px 0px;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+    padding: 0;
+}

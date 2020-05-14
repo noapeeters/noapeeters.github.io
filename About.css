@@ -1,0 +1,18 @@
+.img2 {
+    height: 1000px;
+    background-image: url("cremebird.png");
+    background: url(cremebird.png) no-repeat center fixed;
+    background-position: 0px 0px;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+    padding: 0;
+}
+
+.h1 {
+    color: rgb(255, 255, 255);
+    text-shadow:2px 2px 2px  rgb(243, 205, 205);
+    padding-top: 30px;
+    padding-left: 30px;
+}
